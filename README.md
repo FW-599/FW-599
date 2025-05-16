@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @FW-599
 - 👀 I’m interested in Pi Pico
 - 🌱 I’m currently learning to relax
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate on a collaboration on a collaboration ...
 - 📫 How to reach me: idk, I couldn't even find myself on Google Street View
 - ⚡ Fun fact: Most people are shocked when they find out how bad I am as an electrician.
 
